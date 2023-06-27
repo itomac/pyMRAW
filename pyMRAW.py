@@ -18,7 +18,7 @@ Author: Jaka Javh (jaka.javh@fs.uni-lj.si), Janko Slavič (janko.slavic@fs.uni-l
 
 We developed this module while working on this publication:
 J. Javh, J. Slavič and M. Boltežar: The Subpixel Resolution of Optical-Flow-Based Modal Analysis,
-Mechanical Systems and Signal Processing, Vol. 88, p. 89–99, 2017
+Mechanical Systems and Signal Processing, Vol. 88, p. 89-99, 2017
  
 If you find it useful, consider to cite us.
 """
@@ -32,7 +32,7 @@ import xmltodict
 
 __version__ = '0.31'
 
-SUPPORTED_FILE_FORMATS = ['mraw', 'tiff']
+SUPPORTED_FILE_FORMATS = ['mraw', 'tiff', 'png']
 SUPPORTED_EFFECTIVE_BIT_SIDE = ['lower', 'higher']
 
 
